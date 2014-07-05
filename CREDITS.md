@@ -1,9 +1,7 @@
 # TheHostingTool Credits &amp; Contributors
 This document is at least a partial list of all people and
 organizations who have contributed to TheHostingTool. If you don't see a name
-here that you know should be, tell us! Eventually this list will be put into
-alphabetical order. Or something.
-The list in Job and alphabetical order.
+here that you know should be, tell us!
 
 ### Jonny Huxtable
 TheHostingTool creator and original developer.
